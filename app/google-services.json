@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457101577674",
+    "project_id": "egypt-sand-521b3",
+    "storage_bucket": "egypt-sand-521b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457101577674:android:365f9e184452cac5e91333",
+        "android_client_info": {
+          "package_name": "com.egy.ptsa.nd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457101577674-d03m514hs2m7gtlmrvuqae9bdjhd70qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxooaNqamTVx4tGBDtUB38YhDcar2Kpso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457101577674-d03m514hs2m7gtlmrvuqae9bdjhd70qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

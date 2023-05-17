@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Egypt Sand</string>
+    <string name="settings">Настройки</string>
+    <string name="exit">Выход</string>
+    <string name="play">Старт</string>
+    <string name="back">Назад</string>
+    <string name="select">Выбрать</string>
+    <string name="submit">Отправить</string>
+    <string name="gameOver">Конец Игры</string>
+    <string name="restart">Рестарт</string>
+    <string name="music">Музыка</string>
+    <string name="on">Включить</string>
+    <string name="off">Выключить</string>
+    <string name="info">Перетаскивая пазлы, соберите картинку</string>
+</resources>
