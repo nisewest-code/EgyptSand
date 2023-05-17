@@ -80,7 +80,8 @@ class ActivityLaunchEgyptScreen : AppCompatActivity() {
             } else {
                 Analytics.repearEnter()
                 Linked.link = firstUrl
-                generateLink()
+                wbCustom = WbCustom(this@ActivityLaunchEgyptScreen, binding, listener)
+                wbCustom?.init()
             }
         }
     }
